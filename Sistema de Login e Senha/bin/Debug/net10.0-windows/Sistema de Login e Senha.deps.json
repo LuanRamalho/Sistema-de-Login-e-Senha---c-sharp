@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sistema de Login e Senha/1.0.0": {
+        "runtime": {
+          "Sistema de Login e Senha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Login e Senha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
